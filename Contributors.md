@@ -211,6 +211,11 @@
 - Bio: Student at University of Akron
 - GitHub: [Joe Quinn](https://github.com/jpquinn1)
 
+#### Name: [Matilda Gill](https://github.com/mojoju)
+- Place: Dunedin, New Zealand
+- Bio: Couldn't tell ya
+- GitHub: [Matilda Gill](https://github.com/mojoju)
+
 #### Name: [Kenny Bender](https://github.com/Kbender424)
 - Place: Akron , Usa
 - Bio: Part of hakron club at University of Akron.
